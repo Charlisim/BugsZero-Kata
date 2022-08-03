@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "63F97856-4DEC-4795-8232-63CB7D014C1C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB13A305-2FDD-41FE-97E1-53CA787A1B2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bugzero-kata/Game.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "roll(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB13A305-2FDD-41FE-97E1-53CA787A1B2D - c40243cb44eee46f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.roll(Swift.Int) throws -&gt; ()"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "EB13A305-2FDD-41FE-97E1-53CA787A1B2D - c40243cb44eee46f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.roll(Swift.Int) throws -&gt; ()"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "EB13A305-2FDD-41FE-97E1-53CA787A1B2D - c40243cb44eee44e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.roll(Swift.Int) throws -&gt; ()"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22993B0F-1991-4758-8610-C6D1A716D627"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugZeroKataTests/BugZeroKataTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "testCoinsAreForTheRightPlayerAfterReturningFromPrision()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68DFF43A-3A4F-46BD-B308-1732BA00283A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bugzero-kata/Game.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "wasCorrectlyAnswered()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68DFF43A-3A4F-46BD-B308-1732BA00283A - 90c4445416d9adba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.wasCorrectlyAnswered() -&gt; Swift.Bool"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "68DFF43A-3A4F-46BD-B308-1732BA00283A - 90c4445416d9adba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.wasCorrectlyAnswered() -&gt; Swift.Bool"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "68DFF43A-3A4F-46BD-B308-1732BA00283A - 90c4445416d9addb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.wasCorrectlyAnswered() -&gt; Swift.Bool"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "477E7C4F-2B86-409C-9926-27CEAAF874AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugZeroKataTests/BugZeroKataTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "testDoesntGoOutFromPrisionIfRollEven()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "195D9CFE-6446-42D5-9833-37FCFB2902BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bugzero-kata/Game.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "init(numberOfQuestionsPerType:lengthBoard:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "195D9CFE-6446-42D5-9833-37FCFB2902BC - e24d74c3804a582c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, BugZeroKataTests.TypeOfQuestions) -&gt; () in BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "195D9CFE-6446-42D5-9833-37FCFB2902BC - 7eaab1e2ad576ccb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1316">
+               </Location>
+               <Location
+                  uuid = "195D9CFE-6446-42D5-9833-37FCFB2902BC - 7eaab1e2ad576ccb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "195D9CFE-6446-42D5-9833-37FCFB2902BC - 7eaab1e2ad576ccb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+               <Location
+                  uuid = "195D9CFE-6446-42D5-9833-37FCFB2902BC - 7eaab1e2ad576d2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+               <Location
+                  uuid = "195D9CFE-6446-42D5-9833-37FCFB2902BC - 7eaab1e2ad576d2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "684">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "092CD597-FF4A-49DF-A8F9-32DB317F8986"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bugzero-kata/Game.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "init(numberOfQuestionsPerType:lengthBoard:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "092CD597-FF4A-49DF-A8F9-32DB317F8986 - e24d74c3804a5b35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, BugZeroKataTests.TypeOfQuestions) -&gt; () in BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "092CD597-FF4A-49DF-A8F9-32DB317F8986 - e24d74c3804a5b35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, BugZeroKataTests.TypeOfQuestions) -&gt; () in BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "092CD597-FF4A-49DF-A8F9-32DB317F8986 - f22ca8019119fce4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BugZeroKataTests.TypeOfQuestions) -&gt; () in BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "092CD597-FF4A-49DF-A8F9-32DB317F8986 - f22ca8019119fce4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BugZeroKataTests.TypeOfQuestions) -&gt; () in BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A69DFB63-5781-4B36-957B-6A69ECC96757"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bugzero-kata/Game.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "init(numberOfQuestionsPerType:lengthBoard:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A69DFB63-5781-4B36-957B-6A69ECC96757 - 7eaab1e2ad576fb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "A69DFB63-5781-4B36-957B-6A69ECC96757 - 7eaab1e2ad576fb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BugZeroKataTests.Game.init(numberOfQuestionsPerType: Swift.Int, lengthBoard: Swift.Int) -&gt; BugZeroKataTests.Game"
+                  moduleName = "BugZeroKataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csimon/BugsZero-Kata/swift/bugzero-kata/bugzero-kata/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9792805D-396D-493A-869A-ABB8DD3D8A0C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BugZeroKataTests/BugZeroKataTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "testBoardPositionsAndDistributedEvenly()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

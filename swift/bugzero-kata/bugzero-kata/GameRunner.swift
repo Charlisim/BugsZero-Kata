@@ -14,12 +14,12 @@ class GameRunner {
     
     init() {
         aGame = Game()
-        aGame.add("Chet")
-        aGame.add("Pat")
-        aGame.add("Sue")
+//        aGame.add("Chet")
+//        aGame.add("Pat")
+//        aGame.add("Sue")
         
         repeat {
-            aGame.roll(Int(arc4random_uniform(6)))
+            try? aGame.roll(Int(arc4random_uniform(6)))
             if (arc4random_uniform(9) == 7) {
                 notAWinner = aGame.wrongAnswer()
             } else {
